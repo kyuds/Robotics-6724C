@@ -7,8 +7,6 @@ Created by the main programmer of team 6724C (Daniel Shin). As the team determin
 * VEX 2018-2019 Season: Turning Point
 * VEX 2019-2020 Season: Tower Takeover
 
-Note that detailed code description is provided in readme of each folder
-
 ## Driver Control Programming Theory
 
 As shown in the image below, there are currently two types of controllers: the original vex joystick and the V5 remote. The V5 remote control is the black one on the left.
@@ -30,8 +28,6 @@ For us, we normally utilized function-programmed keys, so that each button will 
 For instance, in the In The Zone season, we had several buttons that ran tasks to control the intake rollers (the intake rollers ran purely autonomously), and we developed methods so that each task wouldn't override each other to create errors in the program.  
   
 *likewise, when programming, we prioritized simplicity and accessibility even when we had to give up on some functionality on driving the robot. 
-
-## Autonomous Programming Theory
 
 ## Image Sources:
 * https://help.vex.com/article/91-how-the-v5-controller-improves-the-user-experience
