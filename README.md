@@ -6,7 +6,7 @@ Created by the main programmer of team 6724C (Daniel Shin). As the team determin
 * VEX 2017-2018 Season: In The Zone
 * VEX 2018-2019 Season: Turning Point
 
-## Driver Control Programming Theory
+## Driver Control Programming
 
 As shown in the image below, there are currently two types of controllers: the original vex joystick and the V5 remote. The V5 remote control is the black one on the left.
 
