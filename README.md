@@ -2,7 +2,7 @@
 
 Created by the main programmer of team 6724C (Daniel Shin). As the team determined that a dual driver system (a system commonly utilized by almost all VEX teams where there are two controllers for the robot instead of one) was inefficient, the code contains various optimizations so that a user-friendly, readily controllable system is created.
 
-Please note that code was written during Freshman and Sophomore year of highschool. Therefore, quality and syntax might not be up to date.
+Please note that code was written during Freshman and Sophomore year of highschool. The code will not be updated in the future as well. Therefore, quality and syntax might not be up to date.
 
 ## Project List:
 * VEX 2017-2018 Season: In The Zone
