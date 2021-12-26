@@ -1,4 +1,4 @@
-Please note that code was written during Freshman and Sophomore year of highschool. The code will not be updated in the future as well. Therefore, quality and syntax IS NOT up to date. This repository exists for any random new VEX programmer who happens to stumble upon. 
+Please note that code was written during Freshman and Sophomore year of highschool. The code will not be updated in the future as well. Therefore, quality and syntax is NOT up to date. This repository exists for any random new VEX programmer who happens to stumble upon. 
 
 ## VEX Robotics Coding Projects
 
